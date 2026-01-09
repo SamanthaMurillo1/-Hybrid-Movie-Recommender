@@ -109,7 +109,7 @@ The dataset used for this project is the [TMDB 5000 Movie Dataset](https://www.k
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome! Give credit. 
 
-credit to https://github.com/dutta-sujoy/Movie-Recommendation-System/tree/main?tab=readme-ov-file i built off of this project
+credit to https://github.com/dutta-sujoy/Movie-Recommendation-System/tree/main?tab=readme-ov-file I built off of this project
 
