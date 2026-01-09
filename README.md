@@ -38,10 +38,11 @@ To make the recommendations feel more "human," I added a final layer of logic:
 
 ## 🚀 Installation
 
+
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Samanthamurillo1/hybrid-movie-ai.git
-cd hybrid-movie-ai
+git clone https://github.com/SamanthaMurillo1/-Hybrid-Movie-Recommender.git
+cd -Hybrid-Movie-Recommender
 
 ```
 
@@ -96,7 +97,7 @@ streamlit run app2.py
 
 
 3. **Explore:** Click on any movie title; it is a direct link to the **TMDB movie page** where you can see full descriptions and ratings.
-4. **Queue:** Use the **➕ Queue** button to save movies to your sidebar watchlist.
+4. **WatchList:** Use the **➕ Add** button to save movies to your sidebar watchlist.
 
 ---
 
@@ -108,9 +109,7 @@ The dataset used for this project is the [TMDB 5000 Movie Dataset](https://www.k
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/your-username/hybrid-movie-ai/issues).
+Contributions, issues, and feature requests are welcome!
 
-## 📜 License
-
-This project is licensed under the MIT License.
+credit to https://github.com/dutta-sujoy/Movie-Recommendation-System/tree/main?tab=readme-ov-file i built off of this project
 
