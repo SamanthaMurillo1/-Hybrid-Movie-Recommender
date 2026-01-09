@@ -2,6 +2,9 @@
 
 This project is an advanced **Hybrid Movie Recommendation System**. It goes beyond traditional title-matching by combining a **Content-Based Filtering model** with a **Custom NLP "Vibe" Search** powered by Sentence Transformers.
 
+## 🌟 Demo video link
+* **Youtube Link:** https://youtu.be/j19Rvhgn-OY
+
 ## 🌟 Key Features
 
 * **Dual-Mode Search:** The system automatically detects if you entered a specific movie title or a "vibe" (e.g., "sad space thriller" or "happy animated movies").
