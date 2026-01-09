@@ -90,6 +90,8 @@ Since `.pkl` files are often too large for GitHub, you may need to generate them
 streamlit run app2.py
 
 ```
+1.5. **Open Local Host:**
+Local URL: http://localhost:8501
 
 
 2. **Search:** * Type a movie name like **"Batman"** for exact recommendations.
