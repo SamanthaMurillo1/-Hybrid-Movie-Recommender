@@ -32,7 +32,7 @@ def add_to_watchlist(title, movie_id):
     movie_entry = {"title": title, "id": movie_id}
     if movie_entry not in st.session_state.watchlist:
         st.session_state.watchlist.append(movie_entry)
-        st.toast(f"Added {title} to your queue!")
+        st.toast(f"Added {title} to your list!")
     else:
         st.warning(f"{title} is already in your watchlist.")
 # -------------------------
@@ -178,7 +178,7 @@ if st.session_state.recommendations is not None:
                 st.markdown(f"**[{row.title}](https://www.themoviedb.org/movie/{row.movie_id})**")
                 
                 # Logic for adding to watchlist
-                if st.button("➕ Queue", key=f"btn_{row.movie_id}"):
+                if st.button("➕ Add", key=f"btn_{row.movie_id}"):
                     add_to_watchlist(row.title, row.movie_id)
                     # trigger rerun so the sidebar updates immediately 
                     # while the session_state.recommendations keeps the movies on screen
